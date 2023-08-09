@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #cf81cf;
+}
+
+#t1{
+  font-family:garamond;
+  font-size: 40px;
+
+}
+#c1,#b1,#b2{
+  border-radius: 7px;
+  text-align: center;
+}
+#b1{
+  background-color: purple;
+  color: white; 
+  padding: 5px;
+}
+#b2{
+  background-color: red;
+  color: white; 
+  padding: 5px;
+}
+
+#t2{
+  font-family:garamond;
+}
+
+#res{
+  font-family:fantasy;
+  font-size:40px;
+  color:orange
+}
+
+#txtres{
+  font-family:garamond;
+  color:black;
+  font-size: 20px;
+}
+div{
+  text-align: center;
+
+}
